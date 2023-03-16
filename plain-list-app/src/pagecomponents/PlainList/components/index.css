@@ -1,0 +1,5 @@
+.custom-center-item {
+    width: max-content;
+    margin: auto !important;
+    border-radius: 5px;
+}

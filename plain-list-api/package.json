@@ -1,0 +1,17 @@
+{
+  "name": "plain-list-api",
+  "version": "1.0.0",
+  "description": "Plain List Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "Rahul Jangid",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
